@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/77/11/2c/77112c27c82abfbad65d76058f26c11e.gif" alt="MasterHead" width="800">
+  <img src="https://i.pinimg.com/originals/77/11/2c/77112c27c82abfbad65d76058f26c11e.gif" alt="MasterHead" width="650">
 </div>
 
 <h1 align="center">Hi 👋, I'm Animesh Karmakar</h1>
