@@ -13,9 +13,7 @@ I build <b>scalable, data-driven applications</b> by combining <b>backend system
 <b>modern frontend interfaces</b>, and <b>applied machine learning</b> to solve real-world problems.
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=animeshkarmakar7&label=Profile%20views&color=0e75b6&style=flat" alt="animeshkarmakar7" />
-</p>
+
 
 ---
 
@@ -31,12 +29,18 @@ My interests lie in building **production-ready full stack systems** that levera
 
 <p align="left">
   <a href="https://www.linkedin.com/in/animesh-karmakar-369079317/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
   </a>
-  <a href="https://instagram.com/_a.nimeshh._" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+
+  <a href="https://leetcode.com/animeshkarmakar7/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"
+         alt="LeetCode" />
   </a>
 </p>
+
 
 ---
 
