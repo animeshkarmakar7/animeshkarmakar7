@@ -35,7 +35,7 @@ My interests lie in building **production-ready full stack systems** that levera
          width="40" />
   </a>
 
-  <a href="https://leetcode.com/animeshkarmakar7/" target="_blank">
+  <a href="https://leetcode.com/u/animeshkarmakar/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange"
          alt="LeetCode" />
   </a>
