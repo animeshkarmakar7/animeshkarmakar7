@@ -5,13 +5,13 @@
 <h1 align="center">Hi 👋, I'm Animesh Karmakar</h1>
 
 <h3 align="center">
-  I’m a full-stack web developer student at Terna Engineering College, exploring the realms of 
-  <b>Artificial Intelligence 🤖</b> and <b>Data Science 📊</b>. 
-  Proficient in <b>HTML, CSS, JavaScript, React, Node.js, and Express</b>, I’m passionate about creating 
-  sleek, dynamic, and impactful web applications 🌐✨.
+AI-Enabled Full Stack Developer | Python | SQL | Applied Machine Learning
 </h3>
 
-
+<p align="center">
+I build <b>scalable, data-driven applications</b> by combining <b>backend systems</b>, 
+<b>modern frontend interfaces</b>, and <b>applied machine learning</b> to solve real-world problems.
+</p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=animeshkarmakar7&label=Profile%20views&color=0e75b6&style=flat" alt="animeshkarmakar7" />
@@ -19,64 +19,86 @@
 
 ---
 
-### 🌐 Connect with me:
+## 🧠 About Me
+
+I am a final-year engineering student specializing in **Artificial Intelligence and Data Science** with a strong foundation in **Python, SQL, backend development, and applied machine learning**.  
+
+My interests lie in building **production-ready full stack systems** that leverage data and ML for decision-making in domains such as **finance, inventory optimization, and analytics**. I enjoy working in structured, enterprise-style environments where technology directly supports business processes.
+
+---
+
+## 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/animesh-karmakar-369079317/" target="blank">
+  <a href="https://www.linkedin.com/in/animesh-karmakar-369079317/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-
- <a href="https://instagram.com/_a.nimeshh._" target="blank">
+  <a href="https://instagram.com/_a.nimeshh._" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-
 </p>
 
 ---
 
-### 💻 Languages and Tools:
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
- 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-</p>
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python, JavaScript, C++, SQL
+
+### Backend Development
+- Flask, Node.js, Express.js  
+- RESTful APIs, JWT Authentication
+
+### Frontend Development
+- React.js, Tailwind CSS, HTML, CSS
+
+### Databases
+- PostgreSQL, MongoDB
+
+### Data & Machine Learning
+- Pandas, NumPy, scikit-learn  
+- Applied Machine Learning  
+- Time-Series Forecasting (ARIMA, Prophet)
+
+### Cloud & DevOps
+- Git, GitHub, Docker  
+- AWS (EC2, S3 – Basics)
 
 ---
 
-### 📊 Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=animeshkarmakar7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=animeshkarmakar7&" alt="Streak Stats" />
-</p>
+### 📦 Sangrahak — Inventory Forecasting & Management System
+**Tech Stack:** Python, Flask, React.js, MongoDB, ARIMA, WebSockets, JWT  
+
+- Built an enterprise-grade, multi-depot inventory management platform with real-time stock tracking and inter-warehouse transfers.  
+- Implemented demand forecasting using ARIMA models to generate reorder recommendations and what-if simulations.  
+- Engineered real-time WebSocket alerts, automated reports, and secure transaction workflows using JWT and OTP-based authentication.
+
+🔗 Repository: https://github.com/animeshkarmakar7/Sangrahak
+
+---
+
+### 💰 FinBuddy — Financial Analytics & Forecasting Platform
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Facebook Prophet, WebSockets, Docker  
+
+- Built a production-grade financial management platform with AI-assisted insights and goal-based financial guidance.  
+- Developed a real-time investment portfolio system supporting stocks and crypto with live price updates and transaction-level P&L analysis.  
+- Implemented ML-based expense forecasting using Facebook Prophet via a Python microservice for predictive financial planning.
+
+🔗 Repository: https://github.com/animeshkarmakar7/FinBuddy
+
+---
+
+## 🏆 Achievements & Hackathons
+
+- **Gen-AI Hackathon 2025:** Selected among **Top 75 teams nationwide**; built a Gen-AI healthcare solution focused on intelligent data analysis and automation.  
+- **MumbaiHacks 2025:** Developed a data-driven system for misinformation detection and analysis.
+
+---
+
+
+
+
+
 
