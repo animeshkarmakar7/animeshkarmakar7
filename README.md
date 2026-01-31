@@ -79,7 +79,7 @@ My interests lie in building **production-ready full stack systems** that levera
 - Implemented demand forecasting using ARIMA models to generate reorder recommendations and what-if simulations.  
 - Engineered real-time WebSocket alerts, automated reports, and secure transaction workflows using JWT and OTP-based authentication.
 
-🔗 Repository: https://github.com/animeshkarmakar7/Sangrahak
+🔗 Repository: https://github.com/animeshkarmakar7/Sangrahak-AI-powered-Inventory-Management-system
 
 ---
 
