@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Karmakar</h1>
 
 <h3 align="center">
-AI-Enabled Full Stack Developer | Python | SQL | Applied Machine Learning
+ Python | SQL | Applied Machine Learning
 </h3>
 
 <p align="center">
