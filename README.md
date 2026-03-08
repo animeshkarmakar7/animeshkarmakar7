@@ -12,7 +12,7 @@
 
 <!-- Social Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-animeshkarmakar7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/animeshkarmakar7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh%20Karmakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/animesh-karmakar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Animesh%20Karmakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/animesh-karmakar-369079317/)
 [![Email](https://img.shields.io/badge/Email-animeshkarmakar992@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:animeshkarmakar992@gmail.com)
 
 </div>
@@ -158,11 +158,11 @@ A **production-grade fintech platform** with AI insights, live portfolio trackin
 
 <div align="center">
 
-[![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Technology%20Job%20Simulation%20%7C%20Feb%202026-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://forage.com)
+[![Deloitte](https://img.shields.io/badge/Deloitte%20Australia-Technology%20Job%20Simulation%20%7C%20Feb%202026-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_697f138ed3e77846a78fe401_1769940034435_completion_certificate.pdf)
 
-[![AWS](https://img.shields.io/badge/AWS%20Cloud-EC2%20%26%20S3%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS](https://img.shields.io/badge/AWS%20Cloud-EC2%20%26%20S3%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]((https://moonshot.scaler.com/s/sl/c964WZbhGK))
 
-[![MySQL](https://img.shields.io/badge/MySQL-Querying%20%7C%20Joins%20%7C%20Aggregation-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
+[![MySQL](https://img.shields.io/badge/MySQL-Querying%20%7C%20Joins%20%7C%20Aggregation-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.hackerrank.com/certificates/e1b0c42e9391)
 
 </div>
 
